@@ -1,7 +1,7 @@
-
+```html
 <div align="center">
 
-<img src="./assets/flowers.gif" width="100%" alt="Chuva em um jardim de pedras">
+<img src="./assets/flowers-petals.gif" width="100%" alt="Chuva em um jardim de pedras">
 
 <br>
 
@@ -19,6 +19,7 @@
 
 ## 🌧️ sobre mim
 
+```c
 while (viva) {
     aprender();
     questionar_tudo();
@@ -82,5 +83,4 @@ while (viva) {
 
 </div>
 ```
-✧ ⋆｡°☔°｡⋆ ✧
 </div>
