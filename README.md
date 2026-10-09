@@ -1,7 +1,10 @@
-```html
+
+```
+
 <div align="center">
 
-<img src="./assets/flowers-petals.gif" width="100%" alt="Chuva em um jardim de pedras">
+<img width="500" height="265" alt="flowers gif" src="https://github.com/user-attachments/assets/611fd5d2-a734-41e4-9a83-616ba56d83d4" />
+
 
 <br>
 
@@ -15,7 +18,7 @@
 
 ---
 
-<img align="right" src="./assets/estudando.gif" width="36%" alt="Estudando em uma escrivaninha">
+<img width="500" height="270" alt="estudando gif" src="https://github.com/user-attachments/assets/916dece1-4413-41d4-8a20-ddadf2dad7cd" />
 
 ## 🌧️ sobre mim
 
@@ -77,7 +80,7 @@ while (viva) {
 
 <div align="center">
 
-<img src="./assets/chuva.gif" width="58%" alt="Pétalas de flores roxas">
+<img width="500" height="269" alt="chuva gif" src="https://github.com/user-attachments/assets/04232b0c-ed12-43fb-8101-b1d68655cd00" />
 
 ✧ ⋆｡°☔°｡⋆ ✧
 
