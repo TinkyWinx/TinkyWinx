@@ -1,6 +1,4 @@
 
-```
-
 <div align="center">
 
 <img width="500" height="265" alt="flowers gif" src="https://github.com/user-attachments/assets/611fd5d2-a734-41e4-9a83-616ba56d83d4" />
@@ -22,14 +20,13 @@
 
 ## 🌧️ sobre mim
 
-```c
+
 while (viva) {
     aprender();
     questionar_tudo();
     programar();
     repetir();
 }
-```
 
 - 💻 Iniciante da programação.
 - 📐 Futura estudante de Matemática.
