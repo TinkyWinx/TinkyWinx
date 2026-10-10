@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&lines=oii%2C+eu+sou+uma+dev+em+constru%C3%A7%C3%A3o+%E2%99%A1;aprendendo+e+criando+coisas+novas;future+mathematician+%E2%9C%A7;debugando+minha+exist%C3%AAncia+%3A3)](https://git.io/typing-svg)
 
 # ⋆⁺₊✧ Cantinho da programação ✧₊⁺⋆
 
@@ -73,14 +74,6 @@ while (viva) {
 <img src="https://streak-stats.demolab.com?user=TinkyWinx&hide_border=true&background=11111B&ring=89B4FA&fire=F5C2E7&currStreakLabel=89B4FA&sideLabels=CDD6F4&dates=9399B2&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="Sequência de contribuições no GitHub">
 
 </div>
-
----
-
-<div align="center">
-
-[Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TinkyWinx&bg_color=11111B&color=CDD6F4&line=CBA6F7&point=F5C2E7&area=true&hide_border=true&custom_title=meu%20universo%20de%20contribui%C3%A7%C3%B5es%20%E2%9C%A7)
-
-</div> 
 
 ---
 
