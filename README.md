@@ -73,7 +73,7 @@ while (viva) {
 
 <div align="center">
  
-## ⋆⁺₊✧ ── minhas estatísticas no GitHub ── ✧₊⁺⋆
+## ⋆⁺₊✧ ── Minhas estatísticas no GitHub ── ✧₊⁺⋆
 
 </div>
 
