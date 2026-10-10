@@ -83,7 +83,6 @@ while (viva) {
 <div align="center">
 
 <img width="5000" height="2690" alt="umbrella GIF" src="https://github.com/user-attachments/assets/c9c37531-bcf6-48b4-bf90-f4d886ccd58c" />
-<img width="5000" height="2600" alt="hayao miyazaki GIF by Maudit" src="https://github.com/user-attachments/assets/784fdd78-0033-4c2b-b2f0-1569c0d0f1d5" />
 
 # *Que a palavra de C esteja convosco 🙏*
 ⊹˚₊ ────── ⋆｡°✩°｡⋆ ────── ⊹˚₊
