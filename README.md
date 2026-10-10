@@ -4,7 +4,7 @@
 
 # ⋆⁺₊✧ Cantinho da programação ✧₊⁺⋆
 
-*Aqui é uma dedicatória às minhas aulas de programação na UnBlock, dadas pelo [Leppyzin](https://github.com/Leppyzin) ;)*
+*Aqui é uma dedicatória às minhas aulas de programação na UnBlock, dadas pelo Lucas Modesto ([Leppyzin](https://github.com/Leppyzin) ;))*
 
  · ⋆｡°✩ · 🐈‍⬛ · ✧°‧★ · 
 
