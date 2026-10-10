@@ -45,7 +45,7 @@ while (viva) {
 ## 💻 tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7" width="200" alt="C"/>
+  <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7" width="120" alt="C"/>
 </p>
 
 <p align="center">
