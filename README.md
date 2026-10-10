@@ -12,7 +12,7 @@
 
 ---
 
-<img width="1000" alt="estudando gif" src="https://github.com/user-attachments/assets/916dece1-4413-41d4-8a20-ddadf2dad7cd" />
+<img width="900" alt="estudando gif" src="https://github.com/user-attachments/assets/916dece1-4413-41d4-8a20-ddadf2dad7cd" />
 
 ## 🌧️ sobre mim
 
