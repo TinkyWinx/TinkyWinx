@@ -17,13 +17,14 @@
 
 ## 🌧️ sobre mim
 
-
+```c
 while (viva) {
     aprender();
     questionar_tudo();
     programar();
     repetir();
 }
+```
 
 - 💻 Iniciante da programação.
 - 📐 Futura estudante de Matemática.
