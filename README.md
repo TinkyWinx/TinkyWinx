@@ -48,6 +48,8 @@ while (viva) {
 
 <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7" alt="Linguagem C">
 
+<img src="https://img.shields.io/badge/Git-100B18?style=for-the-badge&logo=git&logoColor=F5C2E7" alt="Git">
+
 <img src="https://img.shields.io/badge/GitHub-100B18?style=for-the-badge&logo=github&logoColor=E0C3FC" alt="GitHub">
 
 <img src="https://img.shields.io/badge/Linux-100B18?style=for-the-badge&logo=linux&logoColor=CDD6F4" alt="Linux">
