@@ -75,10 +75,10 @@ while (viva) {
 
 <div align="center">
 
-<img width="500" height="269" alt="chuva gif" src="https://github.com/user-attachments/assets/04232b0c-ed12-43fb-8101-b1d68655cd00" />
+<img width="5000" height="2690" alt="chuva gif" src="https://github.com/user-attachments/assets/04232b0c-ed12-43fb-8101-b1d68655cd00" />
 
 ✧ ⋆｡°☔°｡⋆ ✧
 
 </div>
-```
+
 </div>
