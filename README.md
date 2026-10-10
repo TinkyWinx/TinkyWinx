@@ -49,19 +49,8 @@ while (viva) {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-100B18?style=for-the-badge&logo=git&logoColor=F5C2E7" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100B18?style=for-the-badge&logo=github&logoColor=E0C3FC" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-100B18?style=for-the-badge&logo=visualstudiocode&logoColor=89B4FA" alt="VS Code"/>
-</p>
-
-<div align="center">
-
-<!-- Linguagem C em destaque -->
-<img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7"
-     alt="Linguagem C"
-     height="2000">
-
-<!-- Outras ferramentas -->
+ 
+  <!-- Outras ferramentas -->
 <img src="https://img.shields.io/badge/Git-100B18?style=for-the-badge&logo=git&logoColor=F5C2E7" alt="Git">
 
 <img src="https://img.shields.io/badge/GitHub-100B18?style=for-the-badge&logo=github&logoColor=E0C3FC" alt="GitHub">
@@ -70,7 +59,7 @@ while (viva) {
 
 <img src="https://img.shields.io/badge/Arduino-100B18?style=for-the-badge&logo=arduino&logoColor=94E2D5" alt="Arduino">
 
-</div>
+</p>
 
 ---
 
