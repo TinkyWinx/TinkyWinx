@@ -49,10 +49,9 @@ while (viva) {
 <!-- Linguagem C em destaque -->
 <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7"
      alt="Linguagem C"
-     height="100">
+     height="1000">
 
-<br><br>
-
+<br>
 <!-- Outras ferramentas -->
 <img src="https://img.shields.io/badge/Git-100B18?style=for-the-badge&logo=git&logoColor=F5C2E7" alt="Git">
 
