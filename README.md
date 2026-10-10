@@ -45,7 +45,7 @@ while (viva) {
 ## 💻 tecnologias e ferramentas
 
 <p align="center">
-  <img width="1254" height="1254" alt="Emblema Mágico da Linguagem C" src="https://github.com/user-attachments/assets/26e06c9e-93c4-4e32-936e-52655ccc3bdc" />
+  <img width="125" height="125" alt="Emblema Mágico da Linguagem C" src="https://github.com/user-attachments/assets/26e06c9e-93c4-4e32-936e-52655ccc3bdc" />
   <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7" width="100" alt="C"/>
 </p>
 
