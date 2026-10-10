@@ -7,7 +7,7 @@
 
 *Aqui é uma dedicatória às minhas aulas de programação na UnBlock, dadas pelo [Leppyzin](https://github.com/Leppyzin) ;)*
 
-☔ · ⋆｡°✩ · 🐈‍⬛ · ✧ · 🌙
+ · ⋆｡°✩ · 🐈‍⬛ · ✧°‧★ · 
 
 </div>
 
@@ -37,7 +37,7 @@ while (viva) {
 
 <div align="center">
 
-☾ ⋆｡𖦹°‧★ ⋆｡𖦹°‧☽
+୨୧ ───── ⋆｡˚ ☾ ˚｡⋆ ───── ୨୧ 
 
 </div>
 
@@ -78,7 +78,7 @@ while (viva) {
 <img width="5000" height="2600" alt="hayao miyazaki GIF by Maudit" src="https://github.com/user-attachments/assets/784fdd78-0033-4c2b-b2f0-1569c0d0f1d5" />
 
 # *Que a palava de C esteja convosco 🙏*
-✧ ⋆｡°☔°｡⋆ ✧
+⊹˚₊ ────── ⋆｡°✩°｡⋆ ────── ⊹˚₊
 
 </div>
 
