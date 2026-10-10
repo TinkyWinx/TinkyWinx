@@ -6,8 +6,8 @@
 
 *Aqui é uma dedicatória às minhas aulas de programação na UnBlock, dadas pelo Lucas Modesto ;) ([Leppyzin](https://github.com/Leppyzin))*
 
- · ⋆｡°✩ · 🐈‍⬛ · ✧°‧★ · 
-
+ · ⋆｡°✩ ─── · 🐈‍⬛ · ─── ✧°‧★ · 
+ 
 </div>
 
 ---
@@ -18,7 +18,7 @@
 
 </div>
 
-## 🌧️ sobre mim
+## ₊˚⊹♡ ─── sobre mim ─── ♡⊹˚₊
 
 ```c
 while (viva) {
@@ -40,13 +40,14 @@ while (viva) {
 
 <div align="center">
 
-୨୧ ───── ⋆｡˚ ☾ ˚｡⋆ ───── ୨୧ 
+₊˚⊹♡ ─── ⋆｡°✩°｡⋆ ─── ♡⊹˚₊
 
 </div>
 
 ---
 
-## 💻 tecnologias e ferramentas
+## ୨୧ ── ⋆｡˚  Linguagens & ferramentas  ˚｡⋆ ── ୨୧
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=C&logoColor=CBA6F7" width="100" alt="Linguagem C">
@@ -64,7 +65,7 @@ while (viva) {
 
 ---
 
-## 🌌 minhas estatísticas no GitHub
+## ⋆⁺₊✧ ── minhas estatísticas no GitHub ── ✧₊⁺⋆
 
 <div align="center">
 
