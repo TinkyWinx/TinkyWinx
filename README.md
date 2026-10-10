@@ -45,7 +45,7 @@ while (viva) {
 ## 💻 tecnologias e ferramentas
 
 <p align="center">
-  <img src="logo=C&logoColor=CBA6F7" width="100" alt="Linguagem C">
+  <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&Color=CBA6F7" width="100" alt="Linguagem C">
 </p>
 
 <p align="center">
