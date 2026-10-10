@@ -81,6 +81,12 @@ while (viva) {
 
 <img width="5000" height="2600" alt="hayao miyazaki GIF by Maudit" src="https://github.com/user-attachments/assets/784fdd78-0033-4c2b-b2f0-1569c0d0f1d5" />
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TinkyWinx&color=CBA6F7&style=for-the-badge&label=VISITAS+NO+PERFIL)
+
+</div>
+
 # *Que a palavra de C esteja convosco 🙏*
 ⊹˚₊ ────── ⋆｡°✩°｡⋆ ────── ⊹˚₊
 
