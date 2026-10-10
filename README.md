@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=900&color=CBA6F7&center=true&vCenter=true&width=600&lines=oii%2C+eu+sou+uma+programadora+em+constru%C3%A7%C3%A3o+%E2%99%A1;aprendendo+e+surtando+com+o+Beecrowd;futura+matematica+%E2%9C%A7;debugando+minha+exist%C3%AAncia+%3A3)](https://git.io/typing-svg)
 
-*Aqui é uma dedicatória às minhas aulas de programação na UnBlock, dadas pelo Lucas Modesto ;) 
-                          ([Leppyzin](https://github.com/Leppyzin))*
+*Aqui é uma dedicatória às minhas aulas de programação na UnBlock, dadas pelo Lucas Modesto ;) ([Leppyzin](https://github.com/Leppyzin))*
 
  · ⋆｡°✩ ─── · 🐈‍⬛ · ─── ✧°‧★ · 
  
