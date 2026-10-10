@@ -72,7 +72,11 @@ while (viva) {
 <br>
 
 <img src="https://streak-stats.demolab.com?user=TinkyWinx&hide_border=true&background=11111B&ring=89B4FA&fire=F5C2E7&currStreakLabel=89B4FA&sideLabels=CDD6F4&dates=9399B2&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="Sequência de contribuições no GitHub">
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=TinkyWinx&color=CBA6F7&style=for-the-badge&label=VISITAS+NO+PERFIL)
+
+</div>
 </div>
 
 ---
@@ -80,12 +84,6 @@ while (viva) {
 <div align="center">
 
 <img width="5000" height="2600" alt="hayao miyazaki GIF by Maudit" src="https://github.com/user-attachments/assets/784fdd78-0033-4c2b-b2f0-1569c0d0f1d5" />
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=TinkyWinx&color=CBA6F7&style=for-the-badge&label=VISITAS+NO+PERFIL)
-
-</div>
 
 # *Que a palavra de C esteja convosco 🙏*
 ⊹˚₊ ────── ⋆｡°✩°｡⋆ ────── ⊹˚₊
