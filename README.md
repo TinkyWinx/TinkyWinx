@@ -45,8 +45,7 @@ while (viva) {
 ## 💻 tecnologias e ferramentas
 
 <p align="center">
-  <img width="177" height="88" alt="Emblema C Roxo Neon Minimalista" src="https://github.com/user-attachments/assets/5d2cafca-2035-40de-8c03-429eb69efe01" />
-  <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=C&logoColor=CBA6F7" width="100" alt="Linguagem C">
+  <img src="logo=C&logoColor=CBA6F7" width="100" alt="Linguagem C">
 </p>
 
 <p align="center">
