@@ -45,8 +45,7 @@ while (viva) {
 ## 💻 tecnologias e ferramentas
 
 <p align="center">
-  <img width="125" height="125" alt="Emblema Místico Roxo com C Celestial" src="https://github.com/user-attachments/assets/6b3ebe0f-4d27-4754-9f52-c7cd75990716" />
-  <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7" width="100" alt="C"/>
+  <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=c&logoColor=CBA6F7" width="200" alt="C"/>
 </p>
 
 <p align="center">
