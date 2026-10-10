@@ -89,4 +89,8 @@ while (viva) {
 
 </div>
 
+<div align="center">
+
+![Cobrinha das contribuições](https://raw.githubusercontent.com/TinkyWinx/TinkyWinx/output/snake.svg)
+
 </div>
