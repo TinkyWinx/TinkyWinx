@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="500" height="265" alt="flowers gif" src="https://github.com/user-attachments/assets/611fd5d2-a734-41e4-9a83-616ba56d83d4" />
+<img width="5000" height="2650" alt="flowers gif" src="https://github.com/user-attachments/assets/611fd5d2-a734-41e4-9a83-616ba56d83d4" />
 
 
 <br>
