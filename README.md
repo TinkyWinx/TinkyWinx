@@ -32,8 +32,8 @@ while (viva) {
 - 💻 Iniciante da programação.
 - 📐 Futura estudante de Matemática.
 - 📚 Gosto muito de saber o porquê das coisas.
-- 🎧 Ouvinte de rock, metal, MPB, rap e músicas melancólicas.
-- 🌸 Sou apaixonada em mangás de romance.
+- 🎧 Ouvinte de rock, metal, MPB, rap e músicas melancólicas.         
+- 🌸 Sou apaixonada por mangás de romance.
 - 🌙 Adoro conversinhas bobas.
 
 <br clear="right">
