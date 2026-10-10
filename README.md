@@ -18,7 +18,11 @@
 
 </div>
 
-## ₊˚⊹♡ ─── sobre mim ─── ♡⊹˚₊
+<div align="center">
+ 
+## ₊˚⊹♡ ─── Sobre mim ─── ♡⊹˚₊
+
+</div>
 
 ```c
 while (viva) {
@@ -45,9 +49,11 @@ while (viva) {
 </div>
 
 ---
-
+<div align="center">
+ 
 ## ୨୧ ── ⋆｡˚  Linguagens & ferramentas  ˚｡⋆ ── ୨୧
 
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-100B18?style=for-the-badge&logo=C&logoColor=CBA6F7" width="100" alt="Linguagem C">
@@ -65,7 +71,11 @@ while (viva) {
 
 ---
 
+<div align="center">
+ 
 ## ⋆⁺₊✧ ── minhas estatísticas no GitHub ── ✧₊⁺⋆
+
+</div>
 
 <div align="center">
 
