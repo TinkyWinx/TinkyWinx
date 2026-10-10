@@ -75,7 +75,7 @@ while (viva) {
 
 <div align="center">
 
-<img width="5000" height="2700" alt="totoro gif" src="https://github.com/user-attachments/assets/7806c8cd-6aab-406b-b5bf-22f1c9b29d91" />
+<img width="5000" height="2600" alt="hayao miyazaki GIF by Maudit" src="https://github.com/user-attachments/assets/784fdd78-0033-4c2b-b2f0-1569c0d0f1d5" />
 
 ✧ ⋆｡°☔°｡⋆ ✧
 
