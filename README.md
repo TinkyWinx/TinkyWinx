@@ -28,10 +28,10 @@ while (viva) {
 
 - 💻 Iniciante da programação.
 - 📐 Futura estudante de Matemática.
-- 📚 Gosto de saber o porquê das coisas.
+- 📚 Gosto muito de saber o porquê das coisas.
 - 🎧 Ouvinte de rock, metal, MPB, rap e músicas melancólicas.
-- 🌸 Sou viciada em mangás de romance (sério).
-- 🌙 Adoro conversas profundas.
+- 🌸 Sou apaixonada em mangás de romance.
+- 🌙 Adoro conversinhas bobas.
 
 <br clear="right">
 
