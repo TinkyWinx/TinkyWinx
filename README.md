@@ -78,6 +78,14 @@ while (viva) {
 
 <div align="center">
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TinkyWinx&bg_color=11111B&color=CDD6F4&line=CBA6F7&point=F5C2E7&area=true&hide_border=true&custom_title=meu%20universo%20de%20contribui%C3%A7%C3%B5es%20%E2%9C%A7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div> 
+
+---
+
+<div align="center">
+
 <img width="5000" height="2600" alt="hayao miyazaki GIF by Maudit" src="https://github.com/user-attachments/assets/784fdd78-0033-4c2b-b2f0-1569c0d0f1d5" />
 
 # *Que a palavra de C esteja convosco 🙏*
