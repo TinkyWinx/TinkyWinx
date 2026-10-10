@@ -44,6 +44,16 @@ while (viva) {
 
 ## 💻 tecnologias e ferramentas
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" alt="C"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-100B18?style=for-the-badge&logo=git&logoColor=F5C2E7" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100B18?style=for-the-badge&logo=github&logoColor=E0C3FC" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-100B18?style=for-the-badge&logo=visualstudiocode&logoColor=89B4FA" alt="VS Code"/>
+</p>
+
 <div align="center">
 
 <!-- Linguagem C em destaque -->
