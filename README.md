@@ -10,7 +10,9 @@
  
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:100B18,50:CBA6F7,100:100B18&height=3&section=header" width="100%" alt="divisória em degradê roxo">
+</div>
 
 <div align="center">
  
