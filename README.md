@@ -24,6 +24,8 @@
 
 </div>
 
+<div align="center">
+ 
 ```c
 while (viva) {
     aprender();
@@ -32,6 +34,7 @@ while (viva) {
     repetir();
 }
 ```
+</div>
 
 - 💻 Iniciante da programação.
 - 📐 Futura estudante de Matemática.
