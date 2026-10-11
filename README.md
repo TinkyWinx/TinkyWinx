@@ -18,12 +18,6 @@
 
 </div>
 
-<div align="center">
-
-₊˚⊹♡ ─── ⋆｡°✩°｡⋆ ─── ♡⊹˚₊
-
-</div>
-
 ---
 <div align="center">
  
@@ -88,6 +82,12 @@ while (viva) {
 - 🎧 Ouvinte de rock, metal, MPB, rap e músicas melancólicas.         
 - 🌸 Sou apaixonada por mangás de romance.
 - 🌙 Adoro conversinhas bobas.
+
+<div align="center">
+
+₊˚⊹♡ ─── ⋆｡°✩°｡⋆ ─── ♡⊹˚₊
+
+</div>
 
 <br clear="right">
 
