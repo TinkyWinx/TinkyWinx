@@ -20,7 +20,9 @@
 
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=CBA6F7&height=2&section=header" width="100%">
+</div>
 <div align="center">
  
 ## ୨୧ ── ⋆｡˚  Linguagens & ferramentas  ˚｡⋆ ── ୨୧
