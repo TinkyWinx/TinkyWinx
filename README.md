@@ -19,33 +19,6 @@
 </div>
 
 <div align="center">
- 
-## ₊˚⊹♡ ─── Sobre mim ─── ♡⊹˚₊
-
-</div>
-
-<div align="center">
- 
-```c
-while (viva) {
-    aprender();
-    questionar_tudo();
-    programar();
-    repetir();
-}
-```
-</div>
-
-- 💻 Iniciante da programação.
-- 📐 Futura estudante de Matemática.
-- 📚 Gosto muito de saber o porquê das coisas.
-- 🎧 Ouvinte de rock, metal, MPB, rap e músicas melancólicas.         
-- 🌸 Sou apaixonada por mangás de romance.
-- 🌙 Adoro conversinhas bobas.
-
-<br clear="right">
-
-<div align="center">
 
 ₊˚⊹♡ ─── ⋆｡°✩°｡⋆ ─── ♡⊹˚₊
 
@@ -91,6 +64,32 @@ while (viva) {
 <img src="https://streak-stats.demolab.com?user=TinkyWinx&hide_border=true&background=11111B&ring=89B4FA&fire=F5C2E7&currStreakLabel=89B4FA&sideLabels=CDD6F4&dates=9399B2&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="Sequência de contribuições no GitHub">
 
 </div>
+
+---
+
+<div align="center">
+ 
+## ₊˚⊹♡ ─── Sobre mim ─── ♡⊹˚₊
+
+</div>
+ 
+```c
+while (viva) {
+    aprender();
+    questionar_tudo();
+    programar();
+    repetir();
+}
+```
+
+- 💻 Iniciante da programação.
+- 📐 Futura estudante de Matemática.
+- 📚 Gosto muito de saber o porquê das coisas.
+- 🎧 Ouvinte de rock, metal, MPB, rap e músicas melancólicas.         
+- 🌸 Sou apaixonada por mangás de romance.
+- 🌙 Adoro conversinhas bobas.
+
+<br clear="right">
 
 ---
 
